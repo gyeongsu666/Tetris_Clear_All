@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# 런타임 사용자/기록 DB (배포 시 서버에서 생성)
+tetris.db
+
+# OS
+Thumbs.db
+.DS_Store
